@@ -11,10 +11,10 @@ We will demonstrate that the most plausible scenario for SARS-CoV-2
 
 
 ### Research Questions:
-Q1: does KGA crew behaviour cast doubts?
-Q2: has anybody reviewed correctly the content of published articles?
-Q3: can it be —in good faith, assumed that the authors engaged in scientific misconduct?
-Q4: can we provably, with a scientifically, and mathematically sound methodology demonstrate the proximal origin of SARS-CoV- 2?
+  + Q1: does KGA crew behaviour cast doubts?
+  + Q2: has anybody reviewed correctly the content of published articles?
+  + Q3: can it be —in good faith, assumed that the authors engaged in scientific misconduct?
+  + Q4: can we provably, with a scientifically, and mathematically sound methodology demonstrate the proximal origin of SARS-CoV- 2?
 
 
 
