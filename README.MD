@@ -10,6 +10,11 @@ We will demonstrate that the most plausible scenario for SARS-CoV-2
 ## Introduction
 
 
+
+### Motives, and Motivations
+
+
+
 ### Research Questions:
   + Q1: does KGA crew behaviour cast doubts?
   + Q2: has anybody reviewed correctly the content of published articles?
